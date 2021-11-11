@@ -1,4 +1,5 @@
 package main;
+
 import java.awt.ComponentOrientation;
 import java.awt.Container;
 import java.awt.GridBagConstraints;
@@ -7,9 +8,6 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
-import java.util.Date;
-
-import javax.swing.ComboBoxModel;
 import javax.swing.JButton;
 import javax.swing.JComboBox;
 import javax.swing.JFrame;
@@ -41,11 +39,9 @@ public class ScheduleEditorGUI {
 	    GridBagConstraints c = new GridBagConstraints();
 	    
 	    ArrayList<String> schedules = CP.schedule.readFromFile();
-	    // String s1[] = { "Jalpaiguri", "Mumbai", "Noida", "Kolkata", "New Delhi" };
 	    System.out.println(schedules.toString());
 	    cb = new JComboBox(schedules.toArray());
         cb.setEditable(false);
-//        combo.setSize(125, 25);
         c.fill = GridBagConstraints.HORIZONTAL;
 	    c.weightx = 1;
 	    c.gridx = 0;
@@ -76,40 +72,7 @@ public class ScheduleEditorGUI {
 	        		}
 	        	});
 	        }
-	    });
-
-	    
-//	    
-//	    Integer index = 1;
-//	    for (String line : schedules) {
-//	    	combo.addItem(new JComboItem(1, "1"));
-//	    	
-//	    	label = new JLabel("Schedule (" + index.toString() + "): " + line);
-//		    c.weightx = 0.5;
-//		    c.fill = GridBagConstraints.HORIZONTAL;
-//		    c.gridx = 0;
-//		    c.gridy = index - 1;
-//		    //c.gridwidth = 3;
-//		    pane.add(label, c);
-//		    
-//		    
-//		    //
-//		    button.addActionListener(new ActionListener() {
-//		        @Override
-//		        public void actionPerformed(ActionEvent e) {
-//		        	javax.swing.SwingUtilities.invokeLater(new Runnable() {
-//		        		public void run() {
-//		        			parentFrame.setVisible(true);
-//		        			jf.dispose();
-//		        		}
-//		        	});
-//		        }
-//		    });
-//	    }
-	 
-	    
-	    
-	    
+	    });       
     }
  
     /**
@@ -124,7 +87,6 @@ public class ScheduleEditorGUI {
         jf = new JFrame("GridBagLayoutDemo");
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jf.setBounds(10,10,700,600); 
-
         
         //Set up the content pane.
         addComponentsToPane(jf.getContentPane());
@@ -133,5 +95,4 @@ public class ScheduleEditorGUI {
         //frame.pack();
         jf.setVisible(true);
     }
- 
 }

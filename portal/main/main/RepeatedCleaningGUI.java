@@ -70,14 +70,7 @@ public class RepeatedCleaningGUI {
         Matcher m = r.matcher(text);
 		return m.find(); // true if number is valid
 	}
-    private static Boolean validDate(String text) {    	
-//    	String pattern = "^\\d{4}/\\d{2}/\\d{2} \\d{2}:\\d{2}$";
-//        Pattern r = Pattern.compile(pattern);
-//        Matcher m = r.matcher(text);
-//		if (!m.find()) {
-//			return false; // true if date is valid
-//		}
-		
+    private static Boolean validDate(String text) {    		
     	try {
 			//@SuppressWarnings("deprecation");
 			Date date = new Date(text);
@@ -189,26 +182,6 @@ public class RepeatedCleaningGUI {
 	    //c.gridwidth = 3;
 	    errorLabel.setVisible(false);
 	    pane.add(errorLabel, c);
-	    
-//	    button = new JButton("Long-Named Button 4");
-//	    c.fill = GridBagConstraints.HORIZONTAL;
-//	    c.ipady = 40;      //make this component tall
-//	    c.weightx = 0.0;
-//	    c.gridwidth = 3;
-//	    c.gridx = 0;
-//	    c.gridy = 1;
-//	    pane.add(button, c);
-	 
-//	    button = new JButton("5");
-//	    c.fill = GridBagConstraints.HORIZONTAL;
-//	    c.ipady = 0;       //reset to default
-//	    c.weighty = 1.0;   //request any extra vertical space
-//	    c.anchor = GridBagConstraints.PAGE_END; //bottom of space
-//	    c.insets = new Insets(10,0,0,0);  //top padding
-//	    c.gridx = 1;       //aligned with button 2
-//	    c.gridwidth = 2;   //2 columns wide
-//	    c.gridy = 2;       //third row
-//	    pane.add(button, c);
     }
  
     /**
@@ -223,7 +196,6 @@ public class RepeatedCleaningGUI {
         jf = new JFrame("GridBagLayoutDemo");
         jf.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         jf.setBounds(10,10,700,600); 
-
         
         //Set up the content pane.
         addComponentsToPane(jf.getContentPane());

@@ -13,5 +13,9 @@
 /ScheduleEditorGUI$1$1.class
 /ScheduleEditorGUI$1.class
 /ScheduleEditorGUI.class
+<<<<<<< HEAD
 *.class
 target/
+=======
+target/*
+>>>>>>> e8b078a790211239d76877df95ed3dde87350e02
