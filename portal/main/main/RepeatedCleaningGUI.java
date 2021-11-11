@@ -71,12 +71,6 @@ public class RepeatedCleaningGUI {
 		return m.find(); // true if number is valid
 	}
     private static Boolean validDate(String text) {    	
-//    	String pattern = "^\\d{4}/\\d{2}/\\d{2} \\d{2}:\\d{2}$";
-//        Pattern r = Pattern.compile(pattern);
-//        Matcher m = r.matcher(text);
-//		if (!m.find()) {
-//			return false; // true if date is valid
-//		}
 		
     	try {
 			//@SuppressWarnings("deprecation");

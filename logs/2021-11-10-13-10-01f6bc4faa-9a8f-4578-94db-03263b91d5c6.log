@@ -1,0 +1,850 @@
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: ready:ready
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: position:1,1
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: position:2,1
+Nov 10, 2021 1:10:01 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:02 PM main.CSLogger log
+INFO: power:248.0
+Nov 10, 2021 1:10:02 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:02 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:02 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:02 PM main.CSLogger log
+INFO: position:2,2
+Nov 10, 2021 1:10:02 PM main.CSLogger log
+INFO: direction:straight
+Nov 10, 2021 1:10:03 PM main.CSLogger log
+INFO: power:247.0
+Nov 10, 2021 1:10:03 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:03 PM main.CSLogger log
+INFO: power:246.0
+Nov 10, 2021 1:10:03 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:03 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:03 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:03 PM main.CSLogger log
+INFO: position:2,3
+Nov 10, 2021 1:10:03 PM main.CSLogger log
+INFO: direction:straight
+Nov 10, 2021 1:10:04 PM main.CSLogger log
+INFO: power:243.0
+Nov 10, 2021 1:10:04 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:04 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:04 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:04 PM main.CSLogger log
+INFO: position:2,4
+Nov 10, 2021 1:10:04 PM main.CSLogger log
+INFO: direction:straight
+Nov 10, 2021 1:10:05 PM main.CSLogger log
+INFO: power:240.5
+Nov 10, 2021 1:10:05 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:05 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:05 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:05 PM main.CSLogger log
+INFO: position:2,5
+Nov 10, 2021 1:10:05 PM main.CSLogger log
+INFO: direction:straight
+Nov 10, 2021 1:10:06 PM main.CSLogger log
+INFO: power:238.0
+Nov 10, 2021 1:10:06 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:06 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:06 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:06 PM main.CSLogger log
+INFO: position:2,6
+Nov 10, 2021 1:10:06 PM main.CSLogger log
+INFO: direction:straight
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: power:235.0
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: power:232.0
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: position:1,6
+Nov 10, 2021 1:10:07 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:08 PM main.CSLogger log
+INFO: power:230.0
+Nov 10, 2021 1:10:08 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:08 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:08 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:08 PM main.CSLogger log
+INFO: position:1,7
+Nov 10, 2021 1:10:08 PM main.CSLogger log
+INFO: direction:straight
+Nov 10, 2021 1:10:09 PM main.CSLogger log
+INFO: power:228.0
+Nov 10, 2021 1:10:09 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:09 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:09 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:09 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:09 PM main.CSLogger log
+INFO: direction:straight
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: power:226.0
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: power:225.0
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:10 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:11 PM main.CSLogger log
+INFO: power:224.0
+Nov 10, 2021 1:10:11 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:11 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:11 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:11 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:11 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:11 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: power:222.0
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: power:221.0
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:12 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: power:219.0
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: power:216.0
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:13 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: power:213.0
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: power:210.0
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:14 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:15 PM main.CSLogger log
+INFO: power:208.0
+Nov 10, 2021 1:10:15 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:15 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:15 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:15 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:15 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:15 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: power:206.5
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: power:204.5
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:16 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: power:202.0
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: power:200.0
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:17 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: power:198.5
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: power:196.5
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:18 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:19 PM main.CSLogger log
+INFO: power:193.5
+Nov 10, 2021 1:10:19 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:19 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:19 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:19 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:19 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:19 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:20 PM main.CSLogger log
+INFO: power:191.0
+Nov 10, 2021 1:10:20 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:20 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:20 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:20 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:20 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:20 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:20 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: power:189.0
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: power:188.0
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:21 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:22 PM main.CSLogger log
+INFO: power:186.5
+Nov 10, 2021 1:10:22 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:22 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:22 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:22 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:22 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:22 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:22 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: power:185.5
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: power:184.5
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:23 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:24 PM main.CSLogger log
+INFO: power:183.0
+Nov 10, 2021 1:10:24 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:24 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:24 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:24 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:24 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:24 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:24 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: power:181.0
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: power:179.0
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:25 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: power:176.5
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: power:174.5
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:26 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: power:173.0
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: power:172.0
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:27 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: power:170.0
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: power:168.0
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:28 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:29 PM main.CSLogger log
+INFO: power:165.5
+Nov 10, 2021 1:10:29 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:29 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:29 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:29 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:29 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:29 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: power:163.5
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: power:160.5
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:30 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: power:158.5
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: power:157.5
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:31 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:32 PM main.CSLogger log
+INFO: power:155.0
+Nov 10, 2021 1:10:32 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:32 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:32 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:32 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:32 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:32 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:32 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: power:152.0
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: power:149.0
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:33 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:34 PM main.CSLogger log
+INFO: power:147.0
+Nov 10, 2021 1:10:34 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:34 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:34 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:34 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:34 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:34 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:34 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:35 PM main.CSLogger log
+INFO: power:145.5
+Nov 10, 2021 1:10:35 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:35 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:35 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:35 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:35 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:35 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:36 PM main.CSLogger log
+INFO: power:143.5
+Nov 10, 2021 1:10:36 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:36 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:36 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:36 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:36 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:36 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:36 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: power:142.5
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: power:141.5
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:37 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: power:138.5
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: power:135.5
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:38 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: power:133.0
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: power:131.0
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:39 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: power:128.5
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: power:125.5
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:40 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: power:123.5
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: power:120.5
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:41 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: power:117.5
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: power:114.5
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: surface:HIGH
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:42 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: power:112.5
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: power:111.5
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:43 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:44 PM main.CSLogger log
+INFO: power:109.5
+Nov 10, 2021 1:10:44 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:44 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:44 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:44 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:44 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:44 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:44 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: power:108.5
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: power:107.5
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:45 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: power:105.5
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: power:103.5
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: surface:LOW
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: surface:BARE
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: obstacle:obstacle found
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: position:2,8
+Nov 10, 2021 1:10:46 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: power:102.0
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: cleaning:cleaning spot
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: power:101.0
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:1,8
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:1,7
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:back
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:1,6
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:back
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:2,6
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:right
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:2,5
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:back
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:2,4
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:back
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:2,3
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:back
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:2,2
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:back
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:2,1
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:back
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: obstacle:none
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: position:1,1
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: direction:left
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: charging:charging
+Nov 10, 2021 1:10:47 PM main.CSLogger log
+INFO: charging:charging complete

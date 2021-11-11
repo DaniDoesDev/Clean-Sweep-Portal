@@ -52,14 +52,13 @@ public class ScheduleEditorGUI {
 	    c.gridy = 0;
         pane.add(cb, c); // Add combo to panel
         
-        button = new JButton("Delete schedule!");
+        button = new JButton("Delete schedule");
 	    c.fill = GridBagConstraints.HORIZONTAL;
 	    c.weightx = 1;
 	    c.gridx = 0;
 	    c.gridy = 1;
 	    //c.gridwidth = 6;
 	    pane.add(button, c);
-	    
         button.addActionListener(new ActionListener() {
 	        @Override
 	        public void actionPerformed(ActionEvent e) {
@@ -71,6 +70,25 @@ public class ScheduleEditorGUI {
 	        			} catch (Exception e) {
 	        				// If schedule is empty
 	        			}
+	        			parentFrame.setVisible(true);
+	        			jf.dispose();
+	        		}
+	        	});
+	        }
+	    });
+        
+        button = new JButton("Back to main menu");
+	    c.fill = GridBagConstraints.HORIZONTAL;
+	    c.weightx = 1;
+	    c.gridx = 0;
+	    c.gridy = 2;
+	    //c.gridwidth = 6;
+	    pane.add(button, c);
+        button.addActionListener(new ActionListener() {
+	        @Override
+	        public void actionPerformed(ActionEvent e) {
+	        	javax.swing.SwingUtilities.invokeLater(new Runnable() {
+	        		public void run() {
 	        			parentFrame.setVisible(true);
 	        			jf.dispose();
 	        		}
