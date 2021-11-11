@@ -1,6 +1,5 @@
 package main;
 
-
 /*
  * GridBagLayoutDemo.java requires no other files.
  * https://docs.oracle.com/javase/tutorial/displayCode.html?
@@ -10,16 +9,10 @@ package main;
  
 public class CleanPortal {
 	// This is a singleton class
-	
 	public static Schedule schedule; 
 	
 	public CleanPortal() {
 		new CleanPortalGUI(this).createAndShowGUI();
 		schedule = new Schedule();
 	}
-	
-	
-	
- 
 }
-
