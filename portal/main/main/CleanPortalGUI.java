@@ -110,6 +110,26 @@ public class CleanPortalGUI {
 	        	});
 	        }
 	    });
+	    
+	    // activity logs
+	    button = new JButton("Show activity logs");
+	    c.fill = GridBagConstraints.HORIZONTAL;
+	    c.weightx = 1;
+	    c.gridx = 0;
+	    c.gridy = 5;
+	    c.gridwidth = 2;
+	    pane.add(button, c);
+	    button.addActionListener(new ActionListener() {
+	        @Override
+	        public void actionPerformed(ActionEvent e) {
+	        	javax.swing.SwingUtilities.invokeLater(new Runnable() {
+	        		public void run() {
+	        			jf.setVisible(false);
+	        			new ActivityLogsGUI().createAndShowGUI(jf, CP);
+	        		}
+	        	});
+	        }
+	    });
 
 		// add registration
 		button = new JButton("Register");
